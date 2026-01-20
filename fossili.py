@@ -8,7 +8,7 @@ import sys
 sys.stdin = open('fossili_input_3.txt')
 sys.stdout = open('output.txt', 'w')
 
-
+w
 
 
 def solve(t):
