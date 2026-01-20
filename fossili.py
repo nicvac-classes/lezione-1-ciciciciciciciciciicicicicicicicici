@@ -9,6 +9,8 @@ sys.stdin = open('fossili_input_3.txt')
 sys.stdout = open('output.txt', 'w')
 
 
+
+
 def solve(t):
     input()
     a1, a2 = map(int, input().strip().split())
